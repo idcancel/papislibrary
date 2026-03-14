@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Las Mil Maravillas del Gallo García",
+    "cover": "gallo-garcia.png",
+    "recording": "recordings/gallo-garcia.m4a"
+  },
+  {
+    "title": "El Señor Cucubano",
+    "cover": "cucubano.png",
+    "recording": "recordings/cucubano.m4a"
+  },
+  {
+    "title": "La Lata del Abuelo",
+    "cover": "lata-abuelo.png",
+    "recording": "recordings/lata-abuelo.m4a"
+  }
+]
